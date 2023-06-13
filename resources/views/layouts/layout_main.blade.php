@@ -32,13 +32,10 @@
     <title>Популярные типы и виды туров для отдыха в 2023 году · YouTravel.Me</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
-    <meta property="og:image" content="https://youtravel.me/static/i/share.png">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://youtravel.me/tours/type">
     <meta property="og:title" content="Популярные типы и виды туров для отдыха в 2023 году · YouTravel.Me">
     <meta property="og:description" content="Типы и виды туров для отдыха из Москвы и Санкт-Петербурга в 2023 году! ⭐Цены на ближайшие авторские туры. ✅Только проверенные тревел-эксперты. ✅Реальные отзывы от путешественников.">
 
-    <link rel="manifest" href="https://youtravel.me/static/manifest.json">
     <meta name="apple-itunes-app" content="app-id=1538329605">
     <meta name="google-play-app" content="app-id=me.youtravel.main">
     <meta name="yandex-verification" content="c662e760d87c7d85">
@@ -78,7 +75,6 @@
     <link rel="preconnect" href="https://stats.g.doubleclick.net/" crossorigin="">
 
 
-    <link rel="manifest" href="https://youtravel.me/manifest.v1.json">
     <meta name="msapplication-TileColor" content="#662170">
     <meta name="theme-color" content="#ffffff">
     <meta name="p:domain_verify" content="153c9cbd745125d3e9adfa4d166bf105">
@@ -94,129 +90,12 @@
     <link href="./assets/css2" rel="stylesheet">
 
     <meta name="description" content="Типы и виды туров для отдыха из Москвы и Санкт-Петербурга в 2023 году! ⭐Цены на ближайшие авторские туры. ✅Только проверенные тревел-эксперты. ✅Реальные отзывы от путешественников.">
-    <script type="text/javascript" data-skip-moving="true">(function (w, d, n) {
-
-            var cl  = "bx-core";
-            var ht  = d.documentElement;
-            var htc = ht ? ht.className : undefined;
-            if (htc === undefined || htc.indexOf(cl) !== -1) {
-                return;
-            }
-
-            var ua = n.userAgent;
-            if (/(iPad;)|(iPhone;)/i.test(ua)) {
-                cl += " bx-ios";
-            } else if (/Android/i.test(ua)) {
-                cl += " bx-android";
-            }
-
-            cl += (/(ipad|iphone|android|mobile|touch)/i.test(ua) ? " bx-touch" : " bx-no-touch");
-
-            cl += w.devicePixelRatio && w.devicePixelRatio >= 2
-                ? " bx-retina"
-                : " bx-no-retina";
-
-            var ieVersion = -1;
-            if (/AppleWebKit/.test(ua)) {
-                cl += " bx-chrome";
-            } else if ((ieVersion = getIeVersion()) > 0) {
-                cl += " bx-ie bx-ie" + ieVersion;
-                if (ieVersion > 7 && ieVersion < 10 && !isDoctype()) {
-                    cl += " bx-quirks";
-                }
-            } else if (/Opera/.test(ua)) {
-                cl += " bx-opera";
-            } else if (/Gecko/.test(ua)) {
-                cl += " bx-firefox";
-            }
-
-            if (/Macintosh/i.test(ua)) {
-                cl += " bx-mac";
-            }
-
-            ht.className = htc ? htc + " " + cl : cl;
-
-            function isDoctype() {
-                if (d.compatMode) {
-                    return d.compatMode == "CSS1Compat";
-                }
-
-                return d.documentElement && d.documentElement.clientHeight;
-            }
-
-            function getIeVersion() {
-                if (/Opera/i.test(ua) || /Webkit/i.test(ua) || /Firefox/i.test(ua) || /Chrome/i.test(ua)) {
-                    return -1;
-                }
-
-                var rv = -1;
-                if (!!(w.MSStream) && !(w.ActiveXObject) && ("ActiveXObject" in w)) {
-                    rv = 11;
-                } else if (!!d.documentMode && d.documentMode >= 10) {
-                    rv = 10;
-                } else if (!!d.documentMode && d.documentMode >= 9) {
-                    rv = 9;
-                } else if (d.attachEvent && !/Opera/.test(ua)) {
-                    rv = 8;
-                }
-
-                if (rv == -1 || rv == 8) {
-                    var re;
-                    if (n.appName == "Microsoft Internet Explorer") {
-                        re = new RegExp("MSIE ([0-9]+[\.0-9]*)");
-                        if (re.exec(ua) != null) {
-                            rv = parseFloat(RegExp.$1);
-                        }
-                    } else if (n.appName == "Netscape") {
-                        rv = 11;
-                        re = new RegExp("Trident/.*rv:([0-9]+[\.0-9]*)");
-                        if (re.exec(ua) != null) {
-                            rv = parseFloat(RegExp.$1);
-                        }
-                    }
-                }
-
-                return rv;
-            }
-
-        })(window, document, navigator);</script>
 
 
     <link href="./assets/page_118e7250b2e139d2ffbfe9773c123ebf_v1.css" type="text/css" rel="stylesheet">
     <link href="./assets/template_ca7b574076e6a56b8da8c2b34499a7bb_v1.css" type="text/css" data-template-style="true" rel="stylesheet">
 
 
-    <script data-skip-moving="true">
-        window.userInfo  = {
-            authorized: 0,
-            userId    : '',
-            groupName : ''
-        };
-        window.dataLayer = window.dataLayer || [];
-        window.dataLayer.push({
-            originalLocation: document.location.protocol + '//' +
-                document.location.hostname +
-                document.location.pathname +
-                document.location.search
-        });
-    </script>
-    <!-- Google Tag Manager -->
-    <script data-skip-moving="true">(function (w, d, s, l, i) {
-            w[l] = w[l] || [];
-            w[l].push({
-                'gtm.start'                    :
-                    new Date().getTime(), event: 'gtm.js'
-            });
-            var f                          = d.getElementsByTagName(s)[0],
-                j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
-            j.async = true;
-            j.src =
-                'https://www.googletagmanager.com/gtm.js?id=' + i + dl;
-            f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-TVS6LRQ');</script>
-    <!-- End Google Tag Manager -->
-    <script data-skip-moving="true">
-        window.amplitudeUserProperties = {'groupName': '', 'languageId': 'ru', 'abtest': '12', 'section': 'N', 'abtest_40722': 'C', 'abtest_RETURN_SERVICE': 'A', 'abtest_15049': 'B', 'abtest_15301': 'A'}    </script>
 
 
     <style id="flocktoryStyleTag" type="text/css">.flockapi-overlay_popup {
@@ -382,7 +261,6 @@
         .flockapi-insular-widget {
             display: block
         }</style>
-    <script src="./assets/default-handler.js" async=""></script>
     <script type="text/javascript" async="" src="./assets/spsbuster-libs.js"></script>
     <link rel="stylesheet" media="screen" href="./assets/form-animations.css">
     <script type="text/javascript" async="" src="./assets/mobile-detect.min.js"></script>
@@ -439,9 +317,9 @@
 <link href="./assets/chunk-vendors.40a8dc72.css" rel="stylesheet">
 <link href="./assets/chunk-common.b1879136.css" rel="stylesheet">
 <div class="app"></div>
-<link href="https://youtravel.me/local/templates/youtravel/vue-app/dist/css/chunk-0ce35376.0d3b54a8.css" rel="prefetch">
-<link href="https://youtravel.me/local/templates/youtravel/vue-app/dist/js/chunk-0ce35376.c07e4849.js" rel="prefetch">
-<link href="https://youtravel.me/local/templates/youtravel/vue-app/dist/js/chunk-2d22497b.07986c82.js" rel="prefetch">
+<link href="./css/chunk-0ce35376.0d3b54a8.css" rel="prefetch">
+<link href="./css/chunk-0ce35376.c07e4849.js" rel="prefetch">
+<link href="./css/chunk-2d22497b.07986c82.js" rel="prefetch">
 <link href="./assets/chunk-common.b1879136.css" rel="preload" as="style">
 <link href="./assets/chunk-vendors.40a8dc72.css" rel="preload" as="style">
 <link href="./assets/header.9a5fed0c.css" rel="preload" as="style">
@@ -640,8 +518,6 @@
             </a></div>
     </header>
 </div>
-<link href="{{asset('chunk-vue-tel-input.0ed9a311.css')}}" rel="prefetch">
-<link href="{{asset('chunk-vue-tel-input.908d1187.js')}}" rel="prefetch">
 <link href="./assets/auth.86c9d31e.css" rel="preload" as="style">
 <link href="./assets/chunk-common.b1879136.css" rel="preload" as="style">
 <link href="./assets/chunk-vendors.40a8dc72.css" rel="preload" as="style">
@@ -748,7 +624,6 @@
                 }
             </style>
             <div class="footer-column__col footer-column__col--300 footer-sendpulse_form js-footer-sp-form">
-                <script async="" src="./assets/loader.js" sp-form-id="e5789d26c93f5f2fc5d4d5360fdab3a9e994a23100a92c7b9dcafff3d5525614"></script><!-- Subscription Form -->
                 <style>.sp-force-hide {
                         display: none;
                     }
@@ -847,7 +722,6 @@
                         </div>
                     </div>
                 </div>
-                <script type="text/javascript" async="async" src="./assets/default-handler(1).js"></script>
                 <!-- /Subscription Form --></div>
         </div>
         <div class="footer-column footer-column--bottom">
@@ -1326,14 +1200,6 @@ https://firebase.google.com/docs/web/setup#available-libraries -->
 <script type="text/javascript" src="./assets/pull.client.min.js"></script>
 <script type="text/javascript" src="./assets/currency-core.bundle.min.js"></script>
 <script type="text/javascript" src="./assets/core_currency.min.js"></script>
-<script type="text/javascript">BX.setJSList([
-        '/local/templates/youtravel/static/j/push.js', '/local/templates/youtravel/src/js/globals/DataCollector.js', '/local/templates/youtravel/src/js/globals/VueGlobalStore.js', '/local/templates/youtravel/assets/j/lang-manager.js', '/local/templates/youtravel/assets/j/clipboard.js', '/local/templates/youtravel/static/vendor/intlTelInput/js/intlTelInput.min.js', '/local/templates/youtravel/static/j/jquery.2.1.3.js', '/local/templates/youtravel/assets/j/blazy.js', '/local/templates/youtravel/assets/j/vendor/lazysizes-5.2.2/lazysizes.min.js', '/local/templates/youtravel/static/j/jquery.tipsy.js', '/local/templates/youtravel/static/j/jquery.maskedinput.js', '/local/templates/youtravel/static/j/jquery.cookie.js', '/local/templates/youtravel/static/vendor/inputmask/dist/jquery.inputmask.bundle.js', '/local/templates/youtravel/static/vendor/inputmask-multi/js/jquery.inputmask-multi.js', '/local/templates/youtravel/static/vendor/sticky-fill/stickyfill.js', '/local/templates/youtravel/static/vendor/air-datepicker/js/datepicker.js', '/local/templates/youtravel/static/j/preloader.js', '/local/templates/youtravel/static/vendor/select2/dist/js/select2.full.js', '/local/templates/youtravel/static/vendor/device/device.js', '/local/templates/youtravel/static/j/event-tracker.js', '/local/templates/youtravel/static/j/all.js', '/local/templates/youtravel/assets/j/masks.js', '/local/templates/youtravel/assets/j/header.js', '/local/templates/youtravel/static/j/trips.js', '/local/templates/youtravel/static/j/search.js', '/local/templates/youtravel/static/j/filter.js', '/local/templates/youtravel/static/j/notify.js', '/local/templates/youtravel/static/j/booking.js', '/local/templates/youtravel/static/j/left-menu.js', '/local/templates/youtravel/static/j/jquery.validate.js', '/local/templates/youtravel/static/j/yt-form.js', '/local/templates/youtravel/assets/j/modal.js', '/local/templates/youtravel/assets/j/cookie-agreement.js', '/local/templates/youtravel/assets/j/analytics-tips.js', '/local/templates/youtravel/src/js/globals/BodyFreeze.js', '/local/templates/youtravel/src/js/chat/initMessengerBindAction.js', '/local/templates/youtravel/src/js/globals/MainMenu.js', '/local/templates/youtravel/src/js/globals/ModalController.js', '/local/templates/youtravel/src/js/globals/Confirmation.js', '/local/templates/youtravel/src/js/globals/TimeAgoFormat.js', '/local/templates/youtravel/src/js/globals/ContextMenu.js', '/local/templates/youtravel/src/js/globals/TimeCountDown.js', '/local/templates/youtravel/src/js/globals/AddToFavorite.js', '/local/templates/youtravel/src/js/globals/Geo.js', '/local/templates/youtravel/static/j/retailrocket.js', '/local/templates/youtravel/assets/j/rrwidget.js', '/local/templates/youtravel/src/js/globals/FooterMenu.js'
-    ]);</script>
-<script type="text/javascript">BX.setCSSList([
-        '/local/templates/youtravel/assets/css/tours/tours.css', '/local/templates/youtravel/assets/css/globals/header.css', '/local/templates/youtravel/assets/css/globals/footer.css', '/local/templates/youtravel/assets/css/blocks/chat.css', '/local/templates/youtravel/assets/css/globals/sprite.css', '/local/templates/youtravel/static/vendor/normalize.css', '/local/templates/youtravel/assets/css/blocks/icons-column.css', '/local/templates/youtravel/static/vendor/select2/dist/css/select2.css', '/local/templates/youtravel/static/vendor/air-datepicker/css/datepicker.css', '/local/templates/youtravel/static/s/animate.min.css', '/local/templates/youtravel/static/vendor/inputmask/css/inputmask.css', '/local/templates/youtravel/static/s/all.css', '/local/templates/youtravel/static/s/modal-notify.css', '/local/templates/youtravel/static/s/search.css', '/local/templates/youtravel/static/s/main.css', '/local/templates/youtravel/static/s/header.css', '/local/templates/youtravel/static/s/lk-markup.css', '/local/templates/youtravel/static/s/left-menu.css', '/local/templates/youtravel/static/s/user-lk.css', '/local/templates/youtravel/static/s/yt-form.css', '/local/templates/youtravel/static/s/pay-page.css', '/local/templates/youtravel/static/s/expert-page.css', '/local/templates/youtravel/static/s/expert-list.css', '/local/templates/youtravel/static/s/tour-item.css', '/local/templates/youtravel/static/s/main-page.css', '/local/templates/youtravel/assets/s/filter.css', '/local/templates/youtravel/static/s/notify.css', '/local/templates/youtravel/assets/s/cookie-agreement.css', '/local/templates/youtravel/assets/css/globals/markup.css', '/local/templates/youtravel/assets/css/globals/main_menu.css', '/local/templates/youtravel/assets/css/globals/context_menu.css', '/local/templates/youtravel/assets/css/globals/hidden.css', '/local/templates/youtravel/components/bitrix/breadcrumb/.default/style.css', '/local/templates/youtravel/styles.css', '/local/templates/youtravel/template_styles.css', '/local/templates/youtravel/static/vendor/intlTelInput/css/intlTelInput.min.css', '/local/templates/youtravel/assets/s/scroll.css', '/local/templates/youtravel/assets/s/_sprite.css', '/local/templates/youtravel/static/s/preloader.css', '/local/templates/youtravel/static/s/mobile.css', '/local/templates/youtravel/static/vendor/fontawesome/css/all.css'
-    ]);</script>
-<script type="text/javascript">var bxDate = new Date();
-    document.cookie                       = "BITRIX_SM_TIME_ZONE=" + bxDate.getTimezoneOffset() + "; path=/; expires=Sat, 01 Jun 2024 00:00:00 +0300"</script>
 <script type="text/javascript" src="./assets/jslang.js"></script>
 
 
@@ -1351,8 +1217,7 @@ https://firebase.google.com/docs/web/setup#available-libraries -->
     })();</script>
 
 
-<script type="text/javascript" src="./assets/loader(1).js" async="async"></script>
-<script src="./assets/loader(2).js" sp-form-id="67a8e7c64d3e463d61842bdd58417292c6a3432e6fc034aeab12bca8d19e8a74"></script><!-- Subscription Form -->
+
 <style>.sp-force-hide {
         display: none;
     }
@@ -1447,9 +1312,7 @@ https://firebase.google.com/docs/web/setup#available-libraries -->
         </div>
     </div>
 </div>
-<script type="text/javascript" async="async" src="./assets/default-handler(2).js"></script>
 <!-- /Subscription Form -->
-<script src="./assets/loader.js" async="" sp-form-id="8a11f160d63119e77c0cfe2ecb6d2e783ea1732a73786524e0090d518af06d08"></script><!-- Subscription Form -->
 <style>.sp-force-hide {
         display: none;
     }
@@ -1524,36 +1387,6 @@ https://firebase.google.com/docs/web/setup#available-libraries -->
     .sp-popup-outer {
         background: rgba(0, 0, 0, 0.5);
     }</style>
-<div class="sp-form-outer sp-popup-outer" style="background: rgba(0, 0, 0, 0.5);">
-    <div id="sp-form-223075" sp-id="223075" sp-hash="8a11f160d63119e77c0cfe2ecb6d2e783ea1732a73786524e0090d518af06d08" sp-lang="ru" class="sp-form sp-form-regular sp-form-popup sp-form-horizontal"
-         sp-show-options="%7B%22satellite%22%3Afalse%2C%22maDomain%22%3A%22login.sendpulse.com%22%2C%22formsDomain%22%3A%22forms.sendpulse.com%22%2C%22condition%22%3A%22onScroll%22%2C%22scrollTo%22%3A50%2C%22delay%22%3A0%2C%22repeat%22%3A5%2C%22background%22%3A%22rgba(0%2C%200%2C%200%2C%200.5)%22%2C%22position%22%3A%22bottom-right%22%2C%22animation%22%3A%22%22%2C%22hideOnMobile%22%3Afalse%2C%22submitRedirectUrl%22%3A%22%22%2C%22urlFilter%22%3Afalse%2C%22urlFilterConditions%22%3A%5B%7B%22force%22%3A%22hide%22%2C%22clause%22%3A%22contains%22%2C%22token%22%3A%22%22%7D%5D%2C%22analytics%22%3A%7B%22ga%22%3A%7B%22eventLabel%22%3A%22Subscription_form_1104_Pop_up_All_pages%22%2C%22send%22%3Atrue%7D%2C%22ym%22%3A%7B%22counterId%22%3Anull%2C%22eventLabel%22%3Anull%2C%22targetId%22%3Anull%2C%22send%22%3Afalse%7D%7D%2C%22utmEnable%22%3Atrue%7D">
-        <div class="sp-form-fields-wrapper">
-            <button class="sp-btn-close ">&nbsp;</button>
-            <div class="sp-message">
-                <div></div>
-            </div>
-            <form novalidate="" class="sp-element-container sp-field-nolabel ">
-                <div class="sp-field sp-field-full-width" sp-id="sp-7771811f-7855-4cd1-a9ed-435b9ef04bb2">
-                    <div style="font-family: inherit; line-height: 1.2;"><p><span style="font-size: 32px;"><strong>Их не найти у туроператоров&nbsp;🙌</strong></span></p>
-                        <p><span style="font-size: 16px;">Подпишитесь, и мы пришлем <strong>специальную скидку</strong> и подборку авторских туров, которых нельзя повторить самостоятельно.&nbsp;</span></p>
-                        <p><span style="font-size: 16px;">50 000 подписались. Ваш черед.</span></p></div>
-                </div>
-                <div class="sp-field " sp-id="sp-ba6706c2-4057-4787-a730-d1a0ad13855c"><label class="sp-control-label"><span></span><strong>*</strong></label><input type="email" sp-type="email" name="sform[email]" class="sp-form-control " placeholder="mymail@gmail.com"
-                                                                                                                                                                     sp-tips="%7B%22required%22%3A%22%D0%9E%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5%22%2C%22wrong%22%3A%22%D0%9D%D0%B5%D0%B2%D0%B5%D1%80%D0%BD%D1%8B%D0%B9%20email-%D0%B0%D0%B4%D1%80%D0%B5%D1%81%22%7D" autocomplete="on" required="required" list="sp-email-options-223075">
-                    <datalist id="sp-email-options-223075"></datalist>
-                </div>
-                <div class="sp-field sp-button-container sp-lg" sp-id="sp-346ebb24-6430-4331-a846-5c8e975e938a">
-                    <button id="sp-346ebb24-6430-4331-a846-5c8e975e938a" class="sp-button">Подписаться</button>
-                </div>
-                <div class="sp-field " sp-id="sp-e67aa155-8adb-4673-95e5-293244013153">
-                    <div class="sp-checkbox-option"><label><input type="checkbox" sp-type="checkbox" name="sform[Z2RwclRlcm1z]" value="yes" sp-tips="%7B%22required%22%3A%22%D0%9E%D0%B1%D1%8F%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BF%D0%BE%D0%BB%D0%B5%22%7D" class=" " required="required"><span>Согласен с политикой конфиденциальности и даю согласие на обработку персональных данных</span>&nbsp;<span><strong>*</strong></span></label></div>
-                </div>
-            </form>
-            <div class="sp-link-wrapper sp-brandname__left"></div>
-        </div>
-    </div>
-</div>
-<script type="text/javascript"  src="{{asset('assets/default-handler(3).js')}}"></script>
 <!-- /Subscription Form -->
 <script>
     var pushFired = false;
@@ -1717,162 +1550,14 @@ https://firebase.google.com/docs/web/setup#available-libraries -->
         document.getElementById('signup__abtest').setAttribute('data-abvalue', val);
     }
 </script>
-<script async="">
-    $(function () {
-        let spForm = 'e5789d26c93f5f2fc5d4d5360fdab3a9e994a23100a92c7b9dcafff3d5525614';
 
-        if (!spForm) {
-            return;
-        }
-        let script   = document.createElement('script');
-        script.async = true;
-        script.src   = '//web.webformscr.com/apps/fc3/build/loader.js';
-        script.setAttribute('sp-form-id', spForm);
-        $('.js-footer-sp-form').append(script);
-    });
-</script>
-<script async="">
-    $(function () {
-        var FBBotfired = false;
-        window.addEventListener('scroll', function () {
-            if (FBBotfired === false) {
-                FBBotfired = true;
-                let fbBot  = 'c229f835-0631-4702-aee0-39ffee2d8923';
-                if (!fbBot) {
-                    return;
-                }
-                let script   = document.createElement('script');
-                script.async = true;
-                script.src   = '//fbstore.sendpulse.com/loader.js';
-                script.setAttribute('data-sp-widget-id', fbBot);
-                $('.js-fbbot').append(script);
-            }
-        });
-    });
-</script>
-<script>
-    $('.b-lazy').addClass('lazyload');
-</script>
 
-<script>
-    function jivo_onMessageSent() {
-        if (typeof fbq != "undefined") {
-            fbq('track', 'Contact', {eventId: 'ContactId'});
-        }
-        if (typeof roistat != "undefined") {
-            roistat.event.send('Jivo Site Chat')
-        }
 
-        //addToCartConversion('Jivo Chat Message Sent', 'want_to_go', '0');
-    }
-
-    function jivo_onCallStart() {
-        if (typeof fbq != "undefined") {
-            fbq('track', 'Contact', {eventId: 'ContactId'});
-        }
-        if (typeof roistat != "undefined") {
-            roistat.event.send('Jivo Site Call')
-        }
-    }
-
-    var onLoadCallbackOldCallback = window.jivo_onLoadCallback;
-    window.jivo_onLoadCallback    = function () {
-        if (typeof onLoadCallbackOldCallback != "undefined") {
-            onLoadCallbackOldCallback();
-        }
-        let getCookie = window.getCookie = function (name) {
-            var matches = document.cookie.match(new RegExp("(?:^|; )" + name.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, '\\$1') + "=([^;]*)"));
-            return matches ? decodeURIComponent(matches[1]) : undefined;
-        };
-        let ga        = getCookie('_ga');
-        let roistat   = getCookie('roistat_visit');
-        if (ga) {
-            let d = jivo_api.setContactInfo({
-                "description": roistat + '|' + ga
-            });
-
-            jivo_api.setCustomData([
-                {
-                    "title"  : "ROISTAT",
-                    "content": roistat
-                }
-            ]);
-
-            // let a = jivo_api.setUserToken(ga);
-        }
-    };
-
-</script>
-<script src="./assets/firebase-app.js"></script>
-<script src="./assets/firebase-messaging.js"></script>
-
-<script>
-    // Your web app's Firebase configuration
-    window.userOptions = {'userId': '', 'authorized': false, 'groupName': ''};
-    if (typeof firebase != "undefined" && typeof PushMessaging != "undefined"
-        && firebase.messaging.isSupported()) {
-        let firebaseConfig = {
-            apiKey           : "AIzaSyC2zfGIrx4AUZkjRLXsbku8eh-fNvnQwvg",
-            authDomain       : "youtravelme.firebaseapp.com",
-            databaseURL      : "https://youtravelme.firebaseio.com",
-            projectId        : "youtravelme",
-            storageBucket    : "youtravelme.appspot.com",
-            messagingSenderId: "100721589845",
-            appId            : "1:100721589845:web:bdb9985041887665691edc"
-        };
-        // Initialize Firebase
-        firebase.initializeApp(firebaseConfig);
-        let p = new PushMessaging(firebase.messaging());
-        p.init();
-    }
-</script>
-<script>
-    window.geoInfo = {'countryCode': 'UZ'};
-</script>
-<script>
-    if ($('.widget-support-messenger').hasClass('js-abtest14267-mobile')) {
-        let abtest    = $('.js-abtest14267-mobile');
-        let abtestVal = BX.getCookie('BITRIX_SM_abtest_14267');
-        if (abtestVal !== 'A') {
-            abtest.css('display', 'none');
-            window.show_jivo = false;
-        }
-        if (abtestVal === 'B') {
-            setTimeout(function () {
-                abtest.css('display', 'block');
-                window.show_jivo = true;
-            }, 7000);
-        }
-    }
-
-    if (typeof window.youtravel.DataCollector !== "undefined") {
-        window.youtravel.DataCollector.trackEvent("Common", "Load Page", {
-            'url': "/tours/type"
-        });
-
-        window.addEventListener('load', (event) => {
-            setTimeout(function () {
-                let performance     = window.performance.toJSON();
-                let navigationEntry = window.performance.getEntriesByType('navigation')[0];
-                window.youtravel.DataCollector.trackEvent("Performance", "Track Metrics", {
-                    'url'            : "/tours/type",
-                    'performance'    : performance,
-                    'navigationEntry': navigationEntry
-                });
-            }, 0);
-        });
-
-    }
-
-    function changeLangSelecter() {
-    }
-</script>
 <script src="./assets/chunk-common.470a7f8c.js"></script>
 <script src="./assets/how-it-works.02f5342e.js"></script>
 <script defer="" src="./assets/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon="{&quot;rayId&quot;:&quot;7d51c70739420502&quot;,&quot;token&quot;:&quot;dea46dc5c66c43e884d4e50787b6d888&quot;,&quot;version&quot;:&quot;2023.4.0&quot;,&quot;si&quot;:100}" crossorigin="anonymous"></script>
 
 
-<script async="" src="./assets/loader.js" sp-form-id="2e79383bbb7d13d8ababa36af700844dcff1b0fca76eaa58ed375accfe1c5875"></script><!-- Subscription Form -->
 <style>.sp-force-hide {
         display: none;
     }
@@ -1975,7 +1660,6 @@ https://firebase.google.com/docs/web/setup#available-libraries -->
         </div>
     </div>
 </div>
-<script type="text/javascript" src="./assets/default-handler(4).js"></script>
 <!-- /Subscription Form -->
 <div style="display: none; visibility: hidden;">
     <script type="text/javascript">var fired = !1, isChat = 0 <= window.location.href.indexOf("lk/im");

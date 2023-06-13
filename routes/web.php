@@ -25,3 +25,4 @@ Route::get('/reviews', [PageController::class, 'reviews']);
 Route::get('/blog', [PageController::class, 'blog']);
 Route::get('/order', [PageController::class, 'order']);
 
+Route::view('swiper', 'swiper');
